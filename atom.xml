@@ -54,11 +54,11 @@
       <category term="笔记" scheme="http://debug.cool/categories/%E7%AC%94%E8%AE%B0/"/>
     
     
+      <category term="算法" scheme="http://debug.cool/tags/%E7%AE%97%E6%B3%95/"/>
+    
       <category term="读后感" scheme="http://debug.cool/tags/%E8%AF%BB%E5%90%8E%E6%84%9F/"/>
     
       <category term="Future Politics" scheme="http://debug.cool/tags/Future-Politics/"/>
-    
-      <category term="算法" scheme="http://debug.cool/tags/%E7%AE%97%E6%B3%95/"/>
     
   </entry>
   
@@ -81,9 +81,9 @@
       <category term="安全" scheme="http://debug.cool/categories/%E5%AE%89%E5%85%A8/"/>
     
     
-      <category term="碎碎念" scheme="http://debug.cool/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
-    
       <category term="网络安全" scheme="http://debug.cool/tags/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8/"/>
+    
+      <category term="碎碎念" scheme="http://debug.cool/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
     
   </entry>
   
