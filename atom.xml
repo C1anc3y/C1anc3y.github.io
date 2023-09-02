@@ -182,9 +182,9 @@
     
       <category term="研发" scheme="http://debug.cool/tags/%E7%A0%94%E5%8F%91/"/>
     
-      <category term="Python" scheme="http://debug.cool/tags/Python/"/>
-    
       <category term="Kafka" scheme="http://debug.cool/tags/Kafka/"/>
+    
+      <category term="Python" scheme="http://debug.cool/tags/Python/"/>
     
   </entry>
   
@@ -236,9 +236,9 @@
     
       <category term="研发" scheme="http://debug.cool/tags/%E7%A0%94%E5%8F%91/"/>
     
-      <category term="笔记" scheme="http://debug.cool/tags/%E7%AC%94%E8%AE%B0/"/>
-    
       <category term="Python" scheme="http://debug.cool/tags/Python/"/>
+    
+      <category term="笔记" scheme="http://debug.cool/tags/%E7%AC%94%E8%AE%B0/"/>
     
       <category term="Matplotlib" scheme="http://debug.cool/tags/Matplotlib/"/>
     
