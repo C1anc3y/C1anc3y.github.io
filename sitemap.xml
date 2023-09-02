@@ -144,13 +144,6 @@
   </url>
   
   <url>
-    <loc>http://debug.cool/tags/%E7%A0%B4%E8%A7%A3/</loc>
-    <lastmod>2023-09-02</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://debug.cool/tags/%E8%87%AA%E5%AE%9A%E4%B9%89%E6%A8%A1%E7%89%88/</loc>
     <lastmod>2023-09-02</lastmod>
     <changefreq>daily</changefreq>
@@ -179,42 +172,7 @@
   </url>
   
   <url>
-    <loc>http://debug.cool/tags/%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2023-09-02</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://debug.cool/tags/Python/</loc>
-    <lastmod>2023-09-02</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://debug.cool/tags/Matplotlib/</loc>
-    <lastmod>2023-09-02</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://debug.cool/tags/%E9%80%86%E5%90%91/</loc>
-    <lastmod>2023-09-02</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://debug.cool/tags/%E6%B1%87%E7%BC%96/</loc>
-    <lastmod>2023-09-02</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://debug.cool/tags/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8/</loc>
+    <loc>http://debug.cool/tags/%E7%A0%B4%E8%A7%A3/</loc>
     <lastmod>2023-09-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -242,7 +200,21 @@
   </url>
   
   <url>
-    <loc>http://debug.cool/tags/%E5%86%85%E6%A0%B8/</loc>
+    <loc>http://debug.cool/tags/%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2023-09-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://debug.cool/tags/Python/</loc>
+    <lastmod>2023-09-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://debug.cool/tags/Matplotlib/</loc>
     <lastmod>2023-09-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -250,6 +222,27 @@
   
   <url>
     <loc>http://debug.cool/tags/Kafka/</loc>
+    <lastmod>2023-09-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://debug.cool/tags/NAS/</loc>
+    <lastmod>2023-09-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://debug.cool/tags/DIY/</loc>
+    <lastmod>2023-09-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://debug.cool/tags/%E5%AE%B6%E5%BA%ADNAS/</loc>
     <lastmod>2023-09-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -270,7 +263,42 @@
   </url>
   
   <url>
+    <loc>http://debug.cool/tags/%E9%80%86%E5%90%91/</loc>
+    <lastmod>2023-09-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://debug.cool/tags/%E6%B1%87%E7%BC%96/</loc>
+    <lastmod>2023-09-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://debug.cool/tags/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8/</loc>
+    <lastmod>2023-09-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://debug.cool/tags/%E7%BB%B4%E4%BF%AE/</loc>
+    <lastmod>2023-09-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://debug.cool/tags/%E5%91%BD%E4%BB%A4%E8%A1%8C/</loc>
+    <lastmod>2023-09-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://debug.cool/tags/%E5%B0%8F%E6%8A%80%E5%B7%A7/</loc>
     <lastmod>2023-09-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -312,35 +340,7 @@
   </url>
   
   <url>
-    <loc>http://debug.cool/tags/%E5%91%BD%E4%BB%A4%E8%A1%8C/</loc>
-    <lastmod>2023-09-02</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://debug.cool/tags/%E5%B0%8F%E6%8A%80%E5%B7%A7/</loc>
-    <lastmod>2023-09-02</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://debug.cool/tags/NAS/</loc>
-    <lastmod>2023-09-02</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://debug.cool/tags/DIY/</loc>
-    <lastmod>2023-09-02</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://debug.cool/tags/%E5%AE%B6%E5%BA%ADNAS/</loc>
+    <loc>http://debug.cool/tags/%E5%86%85%E6%A0%B8/</loc>
     <lastmod>2023-09-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -356,14 +356,14 @@
   </url>
   
   <url>
-    <loc>http://debug.cool/categories/%E5%AE%89%E5%85%A8/</loc>
+    <loc>http://debug.cool/categories/%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2023-09-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://debug.cool/categories/%E7%AC%94%E8%AE%B0/</loc>
+    <loc>http://debug.cool/categories/%E5%AE%89%E5%85%A8/</loc>
     <lastmod>2023-09-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
